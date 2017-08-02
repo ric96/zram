@@ -1,5 +1,5 @@
 # zram
-script to enable zram for raspberry pi
+script to enable zram
 
 Download the script and copy to /usr/bin/ folder
 ```
