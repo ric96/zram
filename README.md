@@ -3,7 +3,7 @@ script to enable zram for raspberry pi
 
 Download the script and copy to /usr/bin/ folder
 ```
-sudo wget -O /usr/bin/zram.sh https://raw.githubusercontent.com/ric96/zram_rpi3/master/zram.sh
+sudo wget -O /usr/bin/zram.sh https://raw.githubusercontent.com/ric96/zram/master/zram.sh
 ```
 
 make file executable
