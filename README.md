@@ -1,4 +1,4 @@
-# rpi_zram
+# zram
 script to enable zram for raspberry pi
 
 Download the script and copy to /usr/bin/ folder
