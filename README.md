@@ -3,7 +3,7 @@ script to enable zram
 
 Download the script and copy to /usr/bin/ folder
 ```
-sudo wget -O /usr/bin/zram.sh https://raw.githubusercontent.com/ric96/zram/master/zram.sh
+sudo wget -O /usr/bin/zram.sh https://raw.githubusercontent.com/ric96/zram/retropie/zram.sh
 ```
 
 make file executable
